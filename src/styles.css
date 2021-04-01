@@ -1,0 +1,15 @@
+/* Add application styles & imports to this file! */
+
+body {
+  margin: 0;
+}
+
+my-app {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+ng2-pdfjs-viewer > iframe {
+  border: 0;
+}
